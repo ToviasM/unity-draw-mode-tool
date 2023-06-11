@@ -1,0 +1,17 @@
+{
+  "name": "com.toviasmilliken.drawmodeeditor",
+  "version": "1.0.0",
+  "displayName": "Draw Mode Editor",
+  "description": "Create custom draw modes",
+  "unity": "2021.3",
+  "unityRelease": "16f1",
+ "keywords": [
+    "drawmode",
+    "editor",
+    "tooling"
+  ],
+  "author": {
+    "name": "Tovias Milliken",
+    "email": "toviasmilliken@gmail.com"
+	} 
+}
