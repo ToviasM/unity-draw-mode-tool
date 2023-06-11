@@ -8,7 +8,7 @@ The Draw Mode Tool is a powerful Unity Editor extension that allows you to creat
 
 To start using the Draw Mode Tool, follow these steps:
 
-1. Clone or download the Draw Mode Tool repository from [GitHub link](link).
+1. Clone or download the Draw Mode Tool repository from [GitHub link]([link](https://github.com/ToviasM/unity-draw-mode-tool)).
 
 2. Open your Unity project.
 
